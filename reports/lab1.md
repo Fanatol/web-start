@@ -5,7 +5,7 @@
 Студент: Лещинский П.А.
 Группа: ПИЖ-б-о-25-2(2)
 
-Версия: [ССЫЛКА]()
+Версия: [fed36a9](https://github.com/Fanatol/web-start/commit/fed36a9cbbab04ca4981cacba75d7ac09113c4b7)
 
 ---
 
