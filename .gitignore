@@ -24,6 +24,7 @@ staticfiles/
 *.swp
 *.swo
 .DS_Store
+*~
 
 # Distribution
 *.egg-info/
