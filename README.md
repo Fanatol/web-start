@@ -10,4 +10,4 @@
 | № | Тема | Коммит |
 |---|------|--------|
 | 1 | Виртуальное окружение. Контроллеры и маршруты | [fed36a9](https://github.com/Fanatol/web-start/commit/fed36a9cbbab04ca4981cacba75d7ac09113c4b7) |
-| 2 | Модели, миграции, ORM | [ССЫЛКА]() |
+| 2 | Модели, миграции, ORM | [6361d0e](https://github.com/Fanatol/web-start/commit/6361d0e41ff62b48e320cbc50c637ea6103b5f93) |
