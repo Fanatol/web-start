@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Список товаров</title>
+  </head>
+  <body>
+    <h1>{{title}}</h1>
+    {% for item in products %}
+    <div>
+      <p>{{item.name}} – {{item.price}} руб.</p>
+      <p>{{item.description}}</p>
+      <p>{{ item.created_at|date:"Y.m.d H:i" }}</p>
+    </div>
+    {% endfor %}
+  </body>
+</html>
