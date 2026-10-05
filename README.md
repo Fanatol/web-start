@@ -7,7 +7,8 @@
 
 ## 📚 Список лабораторных работ
 
-| № | Тема | Коммит |
-|---|------|--------|
-| 1 | Виртуальное окружение. Контроллеры и маршруты | [fed36a9](https://github.com/Fanatol/web-start/commit/fed36a9cbbab04ca4981cacba75d7ac09113c4b7) |
-| 2 | Модели, миграции, ORM | [6361d0e](https://github.com/Fanatol/web-start/commit/6361d0e41ff62b48e320cbc50c637ea6103b5f93) |
+| № | Тема | Коммит | Отчёт |
+|---|------|--------|-------|
+| 1 | Виртуальное окружение. Контроллеры и маршруты | [fed36a9](https://github.com/Fanatol/web-start/commit/fed36a9cbbab04ca4981cacba75d7ac09113c4b7) | [lab1.md](reports/lab1.md) |
+| 2 | Модели, миграции, ORM | [6361d0e](https://github.com/Fanatol/web-start/commit/6361d0e41ff62b48e320cbc50c637ea6103b5f93) | [lab2.md](reports/lab2.md) |
+| 3 | Шаблоны. Админка Django | [5367b96](https://github.com/Fanatol/web-start/commit/5367b960e5368731138fb764c83b880d9b5bb9b6) | [lab3.md](reports/lab3.md) |
